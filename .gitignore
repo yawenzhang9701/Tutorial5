@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rproj
+*.Rproj 
 
 
 # ignore all text files
