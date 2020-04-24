@@ -9,8 +9,11 @@ output: bookdown::html_document2
 ```{r}
 library(tidyverse)
 library(COVID19)
-covid_us <- covid19("USA", level = 2)
 ```
+
+
+
+
 
 
 
