@@ -1,0 +1,16 @@
+---
+title: "Learning to rebase"
+author: "XX"
+date: "4/24/2020"
+output: bookdown::html_document2
+        keep_md: true
+---
+
+```{r}
+library(tidyverse)
+library(COVID19)
+covid_us <- covid19("USA", level = 2)
+```
+
+
+
